@@ -1,0 +1,11 @@
+{
+  "name": "dynamic-files-tree-view",
+  "version": "1.0.0",
+  "description": "by Ron motola",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ron Motola",
+  "license": "ISC"
+}
