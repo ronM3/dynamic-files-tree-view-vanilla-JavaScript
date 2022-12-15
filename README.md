@@ -13,6 +13,5 @@ Soon
 * Add, remove or edit files or folders dynamically
 * Dom manipulation
 * User-friendly
-* customizable tasks
 * Responsive
 
